@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AMALA0</string>
+    <string name="waiting">Waiting</string>
+    <string name="proceed">Proceed</string>
+    <string name="dispatch">Dispatch</string>
+    <string name="error_text">An Internal Error has Occured. \nPlease Stay with us while we fix the Issue.\n Thank you for your patience.</string>
+    <array name="main">
+        <item>Patient 1</item>
+        <item>Patient 2</item>
+        <item>Patient 2</item>
+        <item>Patient 3</item>
+        <item>Patient 4</item>
+        <item>Patient 5</item>
+        <item>Patient 6</item>
+        <item>Patient 7</item>
+        <item>Patient 8</item>
+        <item>Patient 9</item>
+        <item>Patient 10</item>
+        <item>Patient 11</item>
+        <item>Patient 12</item>
+        <item>Patient 13</item>
+        <item>Patient 14</item>
+        <item>Patient 15</item>
+        <item>Patient 16</item>
+        <item>Patient 17</item>
+
+
+    </array>
+</resources>
